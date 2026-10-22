@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "n": 12,
+  "total_sequences": 5875518611160,
+  "block_size": 4194304,
+  "solver_seed": 20260915,
+  "order_multiplier": 104729,
+  "order_offset": 0,
+  "max_block_seconds": 3600,
+  "disk_reserve_bytes": 21474836480,
+  "sample_stride": 256,
+  "bundle_sha256": "0c3a4c950b37e7b173052f07161627b37a0c3a131d020015cb476c997e8c8569",
+  "input_sha256": "745bd6734f79983cf21976fb980cf5cb8b9b5b60ccf39a1b4e6653fedb576b06",
+  "implementation": {
+    "campaign.py": "062826d8fc57ef9f16748c9d3e95e14049a8079c3395ab652f0084ccbfb8b83d",
+    "runner.py": "508e0130310ef574c6a1827cb46b4de00815b0a2cb019a4c349795b6c543e249"
+  }
+}

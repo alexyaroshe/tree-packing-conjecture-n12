@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software release and the accompanying paper."
+type: software
+title: "Tree packing conjecture: exhaustive n=12 verification software"
+authors:
+  - family-names: Yaroshe
+    given-names: Alex
+    orcid: "https://orcid.org/0009-0005-7830-6741"
+version: "1.0.0"
+license: MIT

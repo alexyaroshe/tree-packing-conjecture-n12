@@ -1,0 +1,34 @@
+{
+  "files": {
+    "checkers/check_a.c": "b7b84fcb8225d679418d6030605549a51f3f38d8a1cf65d29ce120c1ac5669e3",
+    "checkers/check_b.c": "a713cb8c2b4497532b4256dcbb8eca9e343b62884ee69c12e6173dbaf5e5f0a5",
+    "solver/worker.c": "52fad0bc32e0fc09387b52b843d6bbec2f392fc25bfcf09b0a2642d810b81b02",
+    "tests/test_checker.py": "f46c5a72968f72c1545ee07f80843d3df6cb024c702479cb37d3d9608533b477",
+    "tests/test_strict.py": "dc1d9a24aa2f85268fe324d46753f73ed6ac96491ce1defe785e8c48cbcc28ab",
+    "tests/test_warm.py": "c0cff014712ff76dd74350411eedc1786551ff7eaf1a0d9c5e5b5c804d125f18",
+    "validation_and_tools/audit_input.py": "74517d13eb3f443175967e30bf16c717187172677bbf40085f6e0a9693531aec",
+    "validation_and_tools/build.py": "877d4d674dab29fb48e95a98bd55304236dc145aa928013b84955e2a2ba825bd",
+    "validation_and_tools/gate.sh": "fe2dab0b38c2bdff33a6cd077b23ceae56c84a2f4b0dc42c6af2fe4249420c3c",
+    "validation_and_tools/gate_target.py": "7fb3a75f3aac65384dbdc33506bab7a63e53dcb5acefa51b53b4474b88a6c803",
+    "validation_and_tools/gen_input.sh": "4343854dfeb03be5f874ab14167e4d81291e829c6781ab0d9c559e14e8f690d0",
+    "validation_and_tools/reference_checker.py": "b330df391383dc467135fa1f4a8f6366c6df86207a7d6eef2c9d54e25070c281",
+    "validation_and_tools/reference_solver.py": "8a2d2f7799fdb9f2bc993d3ad49a926da3d9744a4c34c4117b5e529aee9869c0",
+    "validation_and_tools/sat_solver.py": "90c07df598f26f74ccc582c075c811e306a6cf7a3ed1b82044973d79fc3647b4"
+  },
+  "runtime_sources": {
+    "audit_input.py": "validation_and_tools/audit_input.py",
+    "build.py": "validation_and_tools/build.py",
+    "check_a.c": "checkers/check_a.c",
+    "check_b.c": "checkers/check_b.c",
+    "gate.sh": "validation_and_tools/gate.sh",
+    "gate_target.py": "validation_and_tools/gate_target.py",
+    "gen_input.sh": "validation_and_tools/gen_input.sh",
+    "reference_checker.py": "validation_and_tools/reference_checker.py",
+    "reference_solver.py": "validation_and_tools/reference_solver.py",
+    "sat_solver.py": "validation_and_tools/sat_solver.py",
+    "tests/test_checker.py": "tests/test_checker.py",
+    "tests/test_strict.py": "tests/test_strict.py",
+    "tests/test_warm.py": "tests/test_warm.py",
+    "worker.c": "solver/worker.c"
+  }
+}
