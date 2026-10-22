@@ -6,7 +6,9 @@ A sequence chooses one tree shape per size from 2 through n, ignoring vertex nam
 
 [Tree packing explorer](https://alexyaroshe.com/tree-packing/) · [Ledger format explained](https://alexyaroshe.com/tree-packing-ledger-format/)
 
-[![Interactive tree packing explorer](tree-packing.png)](https://alexyaroshe.com/tree-packing/)
+<a href="https://alexyaroshe.com/tree-packing/"><img src="tree-packing.png" alt="Interactive tree packing explorer" width="100%"></a>
+
+<a href="https://alexyaroshe.com/tree-packing/"><img src="tree-packing-2.png" alt="Tree packing explorer with a selected tree" width="100%"></a>
 
 ## Files
 
